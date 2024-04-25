@@ -1,5 +1,5 @@
 # R. Ávila, Software Developer
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="275px" max-width="275px" width="275px" align="right">
 
 <p align="left">
   👋 <strong>About me</strong>
