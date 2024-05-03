@@ -20,7 +20,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-ávila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avila-jdk/)](https://www.linkedin.com/in/avila-jdk/)
 [![Gmail Badge](https://img.shields.io/badge/-avila.dev@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avila.dev@outlook.com)](mailto:avila.dev@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/avila-r)
 
 ###
 
