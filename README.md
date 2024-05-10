@@ -5,7 +5,7 @@
   👋 <strong>About me</strong>
 </p>
 
-**Software Developer**, focused on server-side, specializing in Angular applications and RESTful services within the <strong>Spring</strong> ecosystem. I'm looking for a professional opportunity where I can contribute effectively and continuously enhance my technical expertise.
+**Software Developer**, focused on server-side, but specializing in Angular applications and RESTful services within the <strong>Spring</strong> ecosystem. I'm looking for a professional opportunity where I can contribute effectively and continuously enhance my technical expertise.
 
 - 🌱 Spring-focused Java Developer.
 - 🎓 Associate's Degree graduating in System Analysis and Development at [Uninter - International University Center](https://www.uninter.com/).
