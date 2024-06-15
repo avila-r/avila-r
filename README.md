@@ -31,6 +31,8 @@
 
 ## Hard Skills
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avila-r&hide=c,c%2B%2B,python,html,css,scss&langs_count=3)
+
 **Server-side Development**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
