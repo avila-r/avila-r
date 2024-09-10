@@ -31,7 +31,7 @@
 
 ## Hard Skills
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avila-r&hide=c,c%2B%2B,python,html,css,scss&langs_count=3)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avila-r&hide=c,c%2B%2B,python,html,css,scss,dockerfile&langs_count=4)
 
 **Server-side Development**
 
