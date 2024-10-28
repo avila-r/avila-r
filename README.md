@@ -5,9 +5,8 @@
   👋 <strong>About me</strong>
 </p>
 
-**Software Developer**, focused on server-side and Bukkit development, specializing in RESTful services within the <strong>Spring</strong> ecosystem. I'm looking for a professional opportunity where I can contribute effectively and continuously enhance my technical expertise.
+**Software Developer**, focused on server-side development, specializing in scalable application architecture. Currently focused on cloud solutions, continuous integration automation, and infrastructure as code with Terraform and Pulumi.
 
-- 🌱 Spring-focused Java Developer
 - 🎓 Associate's Degree graduating in System Analysis and Development at [Uninter - International University Center](https://www.uninter.com/)
 
 #
