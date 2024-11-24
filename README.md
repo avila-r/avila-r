@@ -5,7 +5,7 @@
   👋 <strong>About me</strong>
 </p>
 
-**Software Developer**, focused on server-side development, specializing in scalable application architecture. Currently focused on cloud solutions, continuous integration automation, and infrastructure as code with Terraform and Pulumi.
+**Software Engineer**, focused on server-side development, specializing in scalable application architecture. Currently focused on cloud solutions, continuous integration automation, and infrastructure as code with Terraform and Pulumi.
 
 - 🎓 Associate's Degree graduating in System Analysis and Development at [Uninter - International University Center](https://www.uninter.com/)
 
