@@ -15,15 +15,13 @@
   Focused on server-side development, specializing in scalable application architecture. Currently focused on cloud solutions, continuous integration automation, and infrastructure as code with Terraform and Pulumi.
 </p>
 
-<p align="center">
-  <br>
-    <kbd> <br> ⚙️ Most used languages <br> </kbd>
-  <br>
-</p>
-<p align="center">
+<div>
+    <br>
+    <div align="center"> <kbd> <br> ⚙️ Most used languages <br> </kbd></div>
+   
   <!-- &bg_color=0E0303&text_color=ffffff -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avila-r&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&hide=c,c%2B%2B,python,html,css,scss,dockerfile,makefile,javaascript,typescript&langs_count=6" alt="Languages">
-</p>
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avila-r&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&hide=c,c%2B%2B,python,html,css,scss,dockerfile,makefile,javaascript,typescript&langs_count=6" alt="Languages"></div>
+</div>
 
 <!-- <p align="center">
 <!--   <br>
