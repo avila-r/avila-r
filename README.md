@@ -1,19 +1,35 @@
-# R. Ávila, Software Developer
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
-
-<p align="left">
-  👋 <strong>About me</strong>
+<p align="center">
+    <a href="https://github.com/avila-r" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/%40avila--r-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+</p>
+  <p align="center">
+  <b>Software Engineer</b> @ <b>Compass.uol</b>
 </p>
 
-**Software Engineer**, focused on server-side development, specializing in scalable application architecture. Currently focused on cloud solutions, continuous integration automation, and infrastructure as code with Terraform and Pulumi.
-
-- 🎓 Associate's Degree graduating in System Analysis and Development at [Uninter - International University Center](https://www.uninter.com/)
-
-#
-
-<p align="left">
-  💌 <strong>Contact me</strong>
+<p align="center">
+  <br>
+    <kbd> <br> 👋 Learn about me <br> </kbd>
+  <br>
 </p>
+
+<p align="center">
+  Focused on server-side development, specializing in scalable application architecture. Currently focused on cloud solutions, continuous integration automation, and infrastructure as code with Terraform and Pulumi.
+</p>
+
+<p align="center">
+  <br>
+    <kbd> <br> ⚙️ Most used languages <br> </kbd>
+  <br>
+</p>
+<p align="center">
+  <!-- &bg_color=0E0303&text_color=ffffff -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avila-r&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&hide=c,c%2B%2B,python,html,css,scss,dockerfile,makefile,javaascript,typescript&langs_count=6" alt="Languages">
+</p>
+
+<!-- <p align="center">
+<!--   <br>
+<!--     <kbd> <br> 💌 Contact me <br> </kbd>
+<!--   <br>
+<!-- </p>
 
 ###
 
@@ -28,10 +44,8 @@
 
 ###
 
-## Hard Skills
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avila-r&hide=c,c%2B%2B,python,html,css,scss,dockerfile,makefile,javaascript,typescript&langs_count=6)
-
+--->
+<!--
 **Server-side Development**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
