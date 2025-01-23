@@ -13,7 +13,7 @@
 #
 
 ```console
-root@localhost # cat ~/.about
+root@localhost # cat me.txt
 Login: avila                            Name: R. Ávila
 Directory: /home/avila/                 Shell: /usr/bin/zsh
   - Focused on server-side development, cloud,
@@ -21,7 +21,7 @@ Directory: /home/avila/                 Shell: /usr/bin/zsh
   - Mastering Go, Rust and Elixir
   - Diving deep into Bitcoin protocol
 
-                     ./o.                  avila@me 
+                     ./o.                  avila@endeavour
                    ./sssso-                ---------- 
                  `:osssssss+-              Role: Software Engineer
                `:+sssssssssso/.            Specialization: Server-side & Cloud
