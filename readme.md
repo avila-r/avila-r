@@ -53,7 +53,7 @@ root@localhost # cat contact.txt
    Email    :: avila.dev@outlook.com  
    GitHub   :: github.com/avila-r 
    LinkedIn :: linkedin.com/in/avila-jdk
-   Discord  :: avila.r
+   Discord  :: avila.dev
    Website  :: renato-avila.me
    WhatsApp :: +55 (32) 99994-8746 
 └──────────────────────────────────────────┘
