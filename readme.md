@@ -48,7 +48,16 @@ Directory: /home/avila/                 Shell: /usr/bin/zsh
 
 ```console
 root@localhost # cat contact.txt
-  - Reach me through avila.dev@outlook.com or via linkedin.com/in/avila-jdk/.
+   : avila@contact - Reach me!
+┌──────────────────────────────────────────┐
+   Email    :: avila.dev@outlook.com  
+   GitHub   :: github.com/avila-r 
+   LinkedIn :: linkedin.com/in/avila-jdk
+   Discord  :: avila.r
+   Website  :: renato-avila.me
+   WhatsApp :: +55 (32) 99994-8746 
+└──────────────────────────────────────────┘
+  ● ● ● ● ● ● ● ●
 ```
 
 <br>
