@@ -19,6 +19,9 @@ Directory: /home/avila/                 Shell: /usr/bin/zsh
   - Focused on server-side development, cloud,
     CI/CD, and IaC with Terraform & OpenTofu
   - Mastering Go, Rust and Elixir
+  - Seeking SAA-C03 Certification -_-
+  - Building with Bukkit & BungeeCord
+  - Shipping closed-source Java libraries
   - Diving deep into Bitcoin protocol
 
                      ./o.                  avila@endeavour
@@ -26,7 +29,7 @@ Directory: /home/avila/                 Shell: /usr/bin/zsh
                  `:osssssss+-              Role: Software Engineer
                `:+sssssssssso/.            Specialization: Server-side & Cloud
              `-/ossssssssssssso/.          Languages: Go, Java, Elixir, Rust
-           `-/+sssssssssssssssso+:`        Tools: Docker, k8s, AWS
+           `-/+sssssssssssssssso+:`        Tools: Docker, K8S, AWS
          `-:/+sssssssssssssssssso+/.       Hobbies: Bitcoin & Astrophysics
        `.://osssssssssssssssssssso++-      Learning:
       .://+ssssssssssssssssssssssso++:       - Distributed Systems 
