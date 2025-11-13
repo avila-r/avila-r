@@ -20,7 +20,6 @@ Directory: /home/avila/                 Shell: /usr/bin/zsh
     CI/CD, and IaC with Terraform & OpenTofu
   - Mastering Go, Rust and Elixir
   - Seeking SAA-C03 Certification -_-
-  - Building with Bukkit & BungeeCord
   - Shipping closed-source Java libraries
   - Diving deep into Bitcoin protocol
 
@@ -28,7 +27,7 @@ Directory: /home/avila/                 Shell: /usr/bin/zsh
                    ./sssso-                ---------- 
                  `:osssssss+-              Role: Software Engineer
                `:+sssssssssso/.            Specialization: Server-side & Cloud
-             `-/ossssssssssssso/.          Languages: Go, Java, Elixir, Rust
+             `-/ossssssssssssso/.          Languages: Go, Java, Elixir
            `-/+sssssssssssssssso+:`        Tools: Docker, K8S, AWS
          `-:/+sssssssssssssssssso+/.       Hobbies: Bitcoin & Astrophysics
        `.://osssssssssssssssssssso++-      Learning:
@@ -53,12 +52,12 @@ Directory: /home/avila/                 Shell: /usr/bin/zsh
 root@localhost # cat contact.txt
    : avila@contact - Reach me!
 ┌──────────────────────────────────────────┐
-   Email    :: avila.dev@outlook.com  
+   Email    :: renato.sz.avila@gmail.com  
    GitHub   :: github.com/avila-r 
-   LinkedIn :: linkedin.com/in/avila-jdk
-   Discord  :: avila.dev
-   Website  :: renato-avila.me
-   WhatsApp :: +55 (32) 99994-8746 
+   LinkedIn :: linkedin.com/in/renatoavila
+   Discord  :: evigilare.
+   Website  :: avila.bio
+   Contact  :: +351 966 908 909 
 └──────────────────────────────────────────┘
   ● ● ● ● ● ● ● ●
 ```
